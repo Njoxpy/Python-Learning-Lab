@@ -11,7 +11,7 @@
 
 ## Module
 
-- Module ni file ambalo lina functionality fulani katika program yako,Ukienda supermarket kuna sehemu mbambali kwa ajili ya hizo product zako kama, shirts.
+- Module ni file ambalo lina functionality fulani katika program yako,Ukienda supermarket kuna sehemu mbambali kwa ajili ya product kama, shirts, t-shirts, women clothes.
 
 - Hivyo katika Python kuna modules na pia ni namna yako code zako kuwa organized katika program yako, kwa mfano katika program yako unaweza ukawa na simple function ya kuweza kucalculate cost ya tax pamoja na shipping cost katika program yako.Angalia mfano hapo chini:
 

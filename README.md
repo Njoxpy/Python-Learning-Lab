@@ -1,16 +1,3 @@
-
-<!-- 
-Provide an overview of the project, its purpose, and instructions for contributors.Include made in Tanzania, Contribution guidelines.
-
-Introduce the Swahili Python documentation project and explain its objectives.
-
-Project structure basics from where to where
-- README.md:, Introduction:, Installation Guide, Getting Started , Variables and Data Types, Operators, Control Flow, Functions, Input and Output , Comments and Documentation, Best Practices, Resources
-
-Include guidelines for contributing translations, formatting conventions, and contact information for maintainers 
-
--->
-
 # Python Kwa Kiswahili
 
 Karibu kwenye mradi wa kudai python kwa kutumia lugha ya Kiswahili. Lengo kuu la mradi huu ni kutoa rasilimali za kujifunza programu ya Python kwa watumiaji wa Kiswahili ili kusaidia katika ukuaji wa jamii ya watengenezaji wa programu huko Afrika Mashariki na kwingineko.
@@ -27,7 +14,7 @@ Python Kwa Kiswahili inalenga kufanya rasilimali za kujifunza programu ya Python
 
 ## Mchango na Usaidizi
 
-Tunakaribisha michango kutoka kwa watumiaji wote wa Kiswahili. Ikiwa unataka kuchangia kwa mradi huu kwa njia yoyote, tafadhali fanya ombi la Pull Request na maelezo ya kina kuhusu mabadiliko yako. Pia, ikiwa una maoni au maswali, tafadhali wasiliana nasi kupitia [Barua pepe yetu](mailto:nyagawagodbless@gmail.com).
+Tunakaribisha michango kutoka kwa watumiaji wote wa Kiswahili. Ikiwa unataka kuchangia kwa mradi huu kwa njia yoyote, tafadhali fanya ombi la Pull Request na maelezo ya kina kuhusu mabadiliko yako. Pia, ikiwa una maoni au maswali, tafadhali wasiliana nasi kupitia
 
 ## Leseni
 
