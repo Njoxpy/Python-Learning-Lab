@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Python Learning Lab
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+A curated collection of **Python resources, lessons, and projects** for developers and learners.
 
-## Commands
+## Get Started
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- **Basics:** fundamentals, variables, control flow, functions, and data structures.
+- **Intermediate:** modules, exceptions, files, and the standard library.
+- **Advanced:** threading and advanced concepts.
+- **Object-Oriented Python:** classes, objects, and OOP practices.
+- **Code Examples:** ready-to-run `.py` examples.
+- **Projects:** beginner and intermediate hands-on projects.
+- **Resources:** references, guides, and external links.
+- **Contributing:** how to add content or suggest changes.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Explore lessons and examples to **learn Python efficiently and build projects**.
