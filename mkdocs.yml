@@ -1,0 +1,110 @@
+site_name: Python Learning Lab
+site_url: https://github.com/Njoxpy/Python-Learning-Lab
+site_author: Njox Lee
+repo_url: https://github.com/Njoxpy/Python-Learning-Lab
+edit_uri: edit/main/docs/
+
+nav:
+  - Home: index.md
+
+  - Basics:
+      - Introduction: basics/introduction.md
+      - Getting Started: basics/getting_started.md
+      - Installation Guide: basics/installation_guide.md
+      - Comments: basics/comments.md
+      - Variables & Data Types: basics/variables_and_data_types.md
+      - Operators: basics/operators.md
+      - Control Flow: basics/control_flow.md
+      - Functions: basics/functions.md
+      - Input & Output: basics/input_and_output.md
+      - Data Structures: basics/data_structures.md
+      - List: basics/list.md
+      - Best Practices: basics/best_practices.md
+
+  - Intermediate:
+      - Exceptions: intermediate/exceptions.md
+      - Mathematic Operations: intermediate/mathematic.md
+      - Modules: intermediate/modules.md
+      - Python Package Index: intermediate/python package index.md
+      - Python Standard Library: intermediate/python standard library.md
+      - Reading/Writing Files: intermediate/reading writting files.md
+
+  - Advanced:
+      - Threading: advanced/threading.md
+
+  - Object Oriented in Python:
+      - Introduction: Object Oriented In Python/introduction.md
+      - Classes: Object Oriented In Python/classes.md
+      - Comparing Objects: Object Oriented In Python/comparing objects.md
+      - Arithmetic Operations: Object Oriented In Python/arithmetic operations.md
+      - Private Members: Object Oriented In Python/private members.md
+
+  - Code Examples:
+      - Classes: code/classes.py
+      - List: code/list.py
+      - Modules: code/modules.py
+      - Reading & Writing: code/reading and writting.py
+      - Working with JSON: code/working with json.py
+
+  - Projects:
+      - Beginner: projects/beginer/calculator.py
+      - Intermediate: projects/intermediate/type.py
+
+  - Resources:
+      - Resources: resources/resources.md
+
+  - Contributing:
+      - Contributing: contributing/contributing.md
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotation
+  palette:
+    - scheme: default
+      primary: "#306998" # Python blue
+      accent: "#FFD43B" # Python yellow
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: "#306998"
+      accent: "#FFD43B"
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Njoxpy
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Njox16
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/godbless-nyagawa/
+
+copyright: |
+  &copy; 2025 <a href="https://github.com/Njoxpy" target="_blank" rel="noopener">Njoxpy</a>
